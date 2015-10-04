@@ -1,0 +1,22 @@
+{
+  "name": "redistut",
+  "version": "1.0.0",
+  "description": "Tutorial for redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YonasBerhe/redistut.git"
+  },
+  "author": "Yonas \"SANOY\" Berhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YonasBerhe/redistut/issues"
+  },
+  "homepage": "https://github.com/YonasBerhe/redistut#readme",
+  "dependencies": {
+    "redis": "^2.1.0"
+  }
+}
